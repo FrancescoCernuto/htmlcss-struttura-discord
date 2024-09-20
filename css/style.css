@@ -10,6 +10,34 @@
     justify-content: space-between;
     align-items: center;
     background-color: #d8b365;
-    padding: 20px;
+    padding: 13px;
     border: dashed;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.nav a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #000
+    ;
+}
+.first{
+    background-color: blue;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: dashed;
+}
+.first-content{
+    background-color: #FFB6C1;
+    width: 60%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: dashed;
+
 }
