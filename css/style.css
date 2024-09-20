@@ -1,0 +1,15 @@
+/* # RESET */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d8b365;
+    padding: 20px;
+    border: dashed;
+}
