@@ -18,7 +18,7 @@
 
 /* general */
 header {
-    background-image: url(../img/jumbo.png);
+    background-image: url();
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -61,7 +61,7 @@ footer {
     height: 120%;
     color: white;
 }
-/* //general */
+
 
 
 /* flex section */
@@ -71,7 +71,6 @@ footer {
     flex-grow: 2;
     align-content: space-between;
 }
-/* //flex section */
 
 
 /* header */
@@ -117,7 +116,7 @@ header>section>p {
 }
 
 
-/* //header */
+
 
 
 /* main */
@@ -157,7 +156,7 @@ main>div>picture>img {
     margin-top: 5%;
     width: 50%;
     font-size: 1.5rem;
-    background-image: url(../img/stars.svg);
+    background-image: url();
     background-size: contain;
 }
 
@@ -175,7 +174,7 @@ main>div>picture>img {
     text-decoration: none;
     font-size: 1.4rem;
 }
-/* //main */
+
 
 
 /* footer */
@@ -232,7 +231,7 @@ a{
     color: var(--head-text);
     text-decoration: none;
 }
-/* //footer */
+
 
 /* sezione hover */
 nav a:hover{
@@ -261,4 +260,3 @@ nav a:hover{
     text-decoration: underline;
     color: var(--mac-down-bg);
 }
-/* sezione hover */
